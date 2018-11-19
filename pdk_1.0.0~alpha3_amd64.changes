@@ -1,0 +1,33 @@
+Format: 1.8
+Date: Tue, 26 Jun 2018 19:48:43 +0100
+Source: pdk
+Binary: pdk
+Architecture: source all
+Version: 1.0.0~alpha3
+Distribution: unstable
+Urgency: low
+Maintainer: Christopher Obbard <chris@64studio.com>
+Changed-By: Christopher Obbard <chris@64studio.com>
+Description:
+ pdk        - 64 Studio GNU/Linux Platform Development Kit (PDK)
+Changes:
+ pdk (1.0.0~alpha3) unstable; urgency=low
+ .
+   * [pdk]
+     - listmeta, listcomps: add new commands for pdk-mediagen
+     - repogen: hide output of gpgv correctly
+Checksums-Sha1:
+ 0472b9475b6b8fd80373ad5767b29dbc17a0203e 732 pdk_1.0.0~alpha3.dsc
+ 683ca86e932c3434d210e23380dfd00b60d0c52b 2568223 pdk_1.0.0~alpha3.tar.gz
+ b2a2edc1541abaf346bf06e54f61c17b7eb46d90 328948 pdk_1.0.0~alpha3_all.deb
+ ffd399c4c832dda34b2f5eaec646ad3d4fdf9b8a 6981 pdk_1.0.0~alpha3_amd64.buildinfo
+Checksums-Sha256:
+ 2840c22abb4d3da004860b0985406488affb4aba73fb3b45b297b2978e833ef0 732 pdk_1.0.0~alpha3.dsc
+ 375f33900824fdae8c345dcc350ca2064211731b5a38e3a879630defba5ad077 2568223 pdk_1.0.0~alpha3.tar.gz
+ 7f07f2443ce9e7d02031fe2106f3a5ea057092630e53a326e1bdf4c6b6fbb98a 328948 pdk_1.0.0~alpha3_all.deb
+ a8fb9fa6b1360e4614407a2894e4f8ca5f9be50c463aa50734bb836dc0d85ca5 6981 pdk_1.0.0~alpha3_amd64.buildinfo
+Files:
+ c0ebe59eba2356a65f3a19624e1ca053 732 devel optional pdk_1.0.0~alpha3.dsc
+ 668da812f375c14cb49bc24ecbc01449 2568223 devel optional pdk_1.0.0~alpha3.tar.gz
+ d14dee284c3e7c781bbd799e4b101447 328948 devel optional pdk_1.0.0~alpha3_all.deb
+ 65def43400bc34c7e79f0d3ed81e83e5 6981 devel optional pdk_1.0.0~alpha3_amd64.buildinfo

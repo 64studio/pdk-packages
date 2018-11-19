@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 26 Jun 2018 19:14:50 +0100
+Source: pdk-mediagen
+Binary: pdk-mediagen
+Architecture: source all
+Version: 0.0.2~alpha1
+Distribution: unstable
+Urgency: medium
+Maintainer: Christopher Obbard <chris@64studio.com>
+Changed-By: Christopher Obbard <chris@64studio.com>
+Description:
+ pdk-mediagen - PDK Media Geneneration
+Changes:
+ pdk-mediagen (0.0.2~alpha1) unstable; urgency=medium
+ .
+   * Prepare release 0.0.2~alpha1
+Checksums-Sha1:
+ 9409cbe44d7276f399587514b97b81cbe84f1f3b 560 pdk-mediagen_0.0.2~alpha1.dsc
+ cc74add7cad5396755c7826de5de4a6aead0769d 23210 pdk-mediagen_0.0.2~alpha1.tar.gz
+ 01721d1e363f79fbf6fb878d9e88d196d71b93e0 5094 pdk-mediagen_0.0.2~alpha1_all.deb
+ 6d35074eddf0caff410c90239d9f52270c8eb2ba 5395 pdk-mediagen_0.0.2~alpha1_amd64.buildinfo
+Checksums-Sha256:
+ bf9d5d45a8b02bb54a9d38c1ed8953ee5b9da2c056e7fb2bcfaea1b3870f7af4 560 pdk-mediagen_0.0.2~alpha1.dsc
+ 93316db94f4ce47d67b4c0549d73c97f98d22bdd120979c198fab95d9c5362ce 23210 pdk-mediagen_0.0.2~alpha1.tar.gz
+ 0a8ce781925e83479eab4b0b5961e7f84d7a72d00d0d5ac315fdc91a2433b894 5094 pdk-mediagen_0.0.2~alpha1_all.deb
+ 250f982985e750ec99e247188189703b833931976f469db969310d26698991da 5395 pdk-mediagen_0.0.2~alpha1_amd64.buildinfo
+Files:
+ 7adb60b62dd5dc57d6178edadb733897 560 devel optional pdk-mediagen_0.0.2~alpha1.dsc
+ 24679bb1b12ff2ffafca5d9409122eb3 23210 devel optional pdk-mediagen_0.0.2~alpha1.tar.gz
+ dac46cb42512e637a8bfd04e304e8b7a 5094 devel optional pdk-mediagen_0.0.2~alpha1_all.deb
+ a06fa70532cc4d1ebe8714ac7dead9f9 5395 devel optional pdk-mediagen_0.0.2~alpha1_amd64.buildinfo
